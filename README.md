@@ -1,37 +1,43 @@
-# Gender Prediction App
+<!-- Logo -->
+<p align="center">
+  <img src="logo.png" alt="Logo">
+</p>
 
-/ | | | | () | | () / | / _ \
-| | __ ___ _ __ | | ___ _ __ _ __ _ __ ___ | | | | _ ___ _ __ __ | || | | |
-| | | |/ _ \ ' \ / |/ _ \ '__| | '_ \| '__/ _ \/ _ | |/ | _| |/ _ | ' \ \ \ / / || | | |
-| || | __/ | | | (| | __/ | | |) | | | __/ (| | | (| || | () | | | | \ V /| || || |
-_|___|| ||_,|_|| | .__/|| _|_,|_|_|_||_/|| || _/ |()/
-| |
-|| By Nexayan
+<!-- Title -->
+<h1 align="center">Gender Prediction App</h1>
 
-Gender Prediction App is a Python application that utilizes a pre-trained neural network to predict genders based on input names. It provides an interactive command-line interface for predicting the gender of individual names or multiple names at once. Additionally, it offers the option to import names from a text file for bulk predictions.
+<!-- Description -->
+<p align="center">
+  Predict genders based on names using a neural network model. This Python application offers an interactive command-line interface for individual and bulk predictions.
+</p>
 
+<!-- Features -->
 ## Features
 
 - Predict gender for individual names
-- Predict genders for multiple names
-- Import names from a text file for predictions
-- Command-line interface with clear instructions
+- Bulk prediction for multiple names
+- Import names from text files
+- Clear and interactive command-line interface
 
+<!-- Getting Started -->
 ## Getting Started
 
 1. Clone this repository to your local machine.
-2. Install the required dependencies by running: `pip install -r requirements.txt`
-3. Run the application using: `python gender_prediction_app.py`
+2. Install the required dependencies: pip install -r requirements.txt
+3. Run the application: python gender_prediction_app.py
 
+
+<!-- Usage -->
 ## Usage
 
-1. Choose a prediction mode:
-   - `single` for predicting the gender of a single name
-   - `multiple` for predicting genders of multiple names
-   - `import` to predict genders from a text file
+1. Select a prediction mode:
+- `single`: Predict gender for a single name
+- `multiple`: Bulk prediction for multiple names
+- `import`: Import names from a text file
 
-2. Follow the on-screen prompts to input names or provide a file path.
+2. Follow the prompts to input names or provide a file path.
 
+<!-- Example -->
 ## Example
 
 ```bash
@@ -56,3 +62,17 @@ Predicted genders from imported file:
 Alice: Female
 Bob: Male
 Charlie: Male
+```
+
+<!-- Requirements -->
+Requirements
+Python 3.x
+TensorFlow
+NumPy
+Colorama (for colored output)
+<!-- License -->
+License
+This project is licensed under the MIT License.
+
+<!-- Footer -->
+
