@@ -1,15 +1,12 @@
 # Gender Prediction App
 
-"""
-   _____                _                                _ _      _   _                    __   ___  
-  / ____|              | |                              | (_)    | | (_)                  /_ | / _ \ 
- | |  __  ___ _ __   __| | ___ _ __   _ __  _ __ ___  __| |_  ___| |_ _  ___  _ __   __   _| || | | |
- | | |_ |/ _ \ '_ \ / _` |/ _ \ '__| | '_ \| '__/ _ \/ _` | |/ __| __| |/ _ \| '_ \  \ \ / / || | | |
- | |__| |  __/ | | | (_| |  __/ |    | |_) | | |  __/ (_| | | (__| |_| | (_) | | | |  \ V /| || |_| |
-  \_____|\___|_| |_|\__,_|\___|_|    | .__/|_|  \___|\__,_|_|\___|\__|_|\___/|_| |_|   \_/ |_(_)___/ 
-                                     | |                                                             
-                                     |_| By Nexayan
-"""
+/ | | | | () | | () / | / _ \
+| | __ ___ _ __ | | ___ _ __ _ __ _ __ ___ | | | | _ ___ _ __ __ | || | | |
+| | | |/ _ \ ' \ / |/ _ \ '__| | '_ \| '__/ _ \/ _ | |/ | _| |/ _ | ' \ \ \ / / || | | |
+| || | __/ | | | (| | __/ | | |) | | | __/ (| | | (| || | () | | | | \ V /| || || |
+_|___|| ||_,|_|| | .__/|| _|_,|_|_|_||_/|| || _/ |()/
+| |
+|| By Nexayan
 
 Gender Prediction App is a Python application that utilizes a pre-trained neural network to predict genders based on input names. It provides an interactive command-line interface for predicting the gender of individual names or multiple names at once. Additionally, it offers the option to import names from a text file for bulk predictions.
 
