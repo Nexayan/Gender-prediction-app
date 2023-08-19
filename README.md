@@ -64,15 +64,5 @@ Bob: Male
 Charlie: Male
 ```
 
-<!-- Requirements -->
-Requirements
-Python 3.x
-TensorFlow
-NumPy
-Colorama (for colored output)
-<!-- License -->
-License
-This project is licensed under the MIT License.
-
 <!-- Footer -->
 
