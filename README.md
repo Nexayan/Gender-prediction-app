@@ -23,8 +23,8 @@
 ## Getting Started
 
 1. Clone this repository to your local machine.
-2. Install the required dependencies: pip install -r requirements.txt
-3. Run the application: python gender_prediction_app.py
+2. Install the required dependencies: `pip install -r requirements.txt`
+3. Run the application: `python gender_prediction_app.py`
 
 
 <!-- Usage -->
